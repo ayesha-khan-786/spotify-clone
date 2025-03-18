@@ -17,4 +17,4 @@ This is a simple frontend clone of Spotify, built using HTML and CSS. It replica
 
 * Inspired by Spotify's design.
 
-![Spotify Clone Preview] (assests/spotify-clone.png)
+![Spotify Clone] (assests/spotify-clone.png)
